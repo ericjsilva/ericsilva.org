@@ -10,7 +10,7 @@ pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
 # enable syntax highlight for code blocks
 pygmentsCodeFences = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." # This message is only used by the RSS template.
 googleAnalytics = "UA-249002-1"
 
 [author]
@@ -37,7 +37,7 @@ googleAnalytics = "UA-249002-1"
   themeColor = "#494f5c"
 
   homeSubtitle = "Software developer. Dad. Photographer. Woodworker. Geek. Nerd. I like math, space, donuts, coffee, Mt. Dew, owls, and 80s music."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = ' &#183; <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Some Rights Reserved</a>'
   # bgImg = ""  # Homepage background-image URL
 
   relatedPosts = true
