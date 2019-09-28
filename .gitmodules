@@ -1,6 +1,3 @@
-[submodule "themes/hugo-dusk"]
-	path = themes/hugo-dusk
-	url = https://github.com/gyorb/hugo-dusk.git
 [submodule "public"]
 	path = public
 	url = git@github.com:ericjsilva/ericjsilva.github.io.git

@@ -1,0 +1,91 @@
+baseURL = "/"
+title = "Eric Silva"
+canonifyurls = false
+languageCode = "en-US"
+paginate = 3
+theme = "hermit"
+
+# use Chroma for syntax highlight
+pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
+# enable syntax highlight for code blocks
+pygmentsCodeFences = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+googleAnalytics = "UA-249002-1"
+
+[author]
+  name = "Eric Silva"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[params.meta]
+  keywords = ""
+  description = "A collection of "
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0500"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "Software developer. Dad. Photographer. Woodworker. Geek. Nerd. I like math, space, donuts, coffee, Mt. Dew, owls, and 80s music."
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # bgImg = ""  # Homepage background-image URL
+
+  relatedPosts = true
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/ericjsilva"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/ericjsilva"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/ericjsilva"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/ericjsilva"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    weight = -120
+    identifier = "post"
+    url = "/posts/"
+
+  [[menu.main]]
+    name = "Recipes"
+    weight = -100
+    identifier = "recipe"
+    url = "/recipes/"
+
+  [[menu.main]]
+    name = "Tags"
+    weight = -50
+    identifier = "tag"
+    url = "/tags/"
+
+  [[menu.main]]
+    name = "About"
+    url = "about-me/"
+    weight = 20
