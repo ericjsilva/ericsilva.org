@@ -16,9 +16,6 @@ googleAnalytics = "UA-249002-1"
 [author]
   name = "Eric Silva"
 
-[permalinks]
-  posts = "/:year/:month/:title/"
-
 [blackfriday]
   # hrefTargetBlank = true
   # noreferrerLinks = true
