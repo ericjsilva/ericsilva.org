@@ -13,8 +13,8 @@ I have been developing software since 1995 in Java, C#, Visual Basic, ASP, PHP, 
 
 In additional to my Java, PHP, and C# background, I also have worked with Python and Ruby.
 
-I live in [Birdsboro](https://en.wikipedia.org/wiki/Birdsboro,_Pennsylvania), a small town near Reading, PA with my two children. I was born in Las Vegas, NV, and raised in [Alamogordo, NM](https://www.alamogordo.com) before coming to the Philadelphia area in 1997. I enjoy living in the northeast, but I do miss the sunsets, mild winters, and the mountains of the southwest.
+I live in [Birdsboro](https://en.wikipedia.org/wiki/Birdsboro,_Pennsylvania), a small town near Reading, PA with my two children. I grew up in [Alamogordo, NM](https://www.alamogordo.com) before coming to the Philadelphia area in 1997. I enjoy living in the northeast, but I do miss the sunsets, mild winters, and the mountains of the southwest.
 
 I enjoy the outdoors, sports, woodworking, photography, space and spending time with my children. I also enjoy recreational math, crossword puzzles, beer, wine (mainly pinot noir and chardonnay), movies, and collecting Scouting patches, matchbooks and foreign coins. I enjoy watching and playing all sports and support the [Green Bay Packers](https://www.packers.com), [Chelsea FC](https://www.chelseafc.com), [New York Rangers](https://www.nhl.com/rangers/), and [Philadelphia Phillies](https://www.mlb.com/phillies).
 
-*Last updated: January 1, 2019*
+*Last updated: October 6, 2020*
