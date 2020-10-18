@@ -25,7 +25,9 @@ Hawk Mountain Council serves 6,500 youth and 170 individual Scouting units. That
 
 ## "Virtual" Tent-In
 
-On October 29th, for three hours, volunteers will be "locked in" their tent and are trying to raise money to get them "out" of the tent.
+{{< figure src="/img/posts/Eric-Virtual-Tent-In-Facebook-Cover-1200.png" alt="Eric Silva Tent-In" class="left" height="609" width="1600">}}
+
+On October 29th, Hawk Mountain Council is having a ["Virtual" Tent-In](https://hmc-bsa.org/virtual-tent-in), and for three hours, volunteers will be "locked in" their tent and are trying to raise money to get them "out" of the tent.
 
 I'm doing things a little different...
 
@@ -69,6 +71,6 @@ Please help me to reach both goals.
 
 ## Tax deductions and employer matching
 
-Hawk Mountain Council is a registered 501(c)3 organization (EIN 23-1352047). Donations are 100% tax deductible. Many employers may match charitable contributions. If your employer does, please think about asking them to match your donation.
+Hawk Mountain Council is a registered 501\(c\)3 organization (EIN 23-1352047). Donations are 100% tax deductible. Many employers may match charitable contributions. If your employer does, please think about asking them to match your donation.
 
 Thank you in advance for helping me to support two worthy causes and organizations this autumn.
