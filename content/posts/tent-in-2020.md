@@ -25,7 +25,7 @@ Hawk Mountain Council serves 6,500 youth and 170 individual Scouting units. That
 
 ## "Virtual" Tent-In
 
-{{< figure src="/img/posts/Eric-Virtual-Tent-In-Facebook-Cover-1200.png" alt="Eric Silva Tent-In" class="left" height="609" width="1600">}}
+[![Eric Silva Tent-In](/img/posts/Eric-Virtual-Tent-In-Facebook-Cover-720.png)](https://bit.ly/eric-tent-in)
 
 On October 29th, Hawk Mountain Council is having a ["Virtual" Tent-In](https://hmc-bsa.org/virtual-tent-in), and for three hours, volunteers will be "locked in" their tent and are trying to raise money to get them "out" of the tent.
 

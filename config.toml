@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ericsilva.org"
 title = "Eric Silva"
 canonifyurls = false
 languageCode = "en-US"
@@ -61,6 +61,10 @@ googleAnalytics = "UA-249002-1"
   [[params.social]]
     name = "linkedin"
     url = "https://linkedin.com/in/ericjsilva"
+
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCRU2V3vwu0alLjl40gG5_tQ"
 
 [menu]
 
