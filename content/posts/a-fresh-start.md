@@ -13,6 +13,6 @@ I also wanted to be able to write in any text editor regardless of where I was. 
 
 Another key factor was I did not want to have to manage a web server, deal with hosting, worry about security issues, and have to constantly stay on the offensive to ensure my site wasn't hacked or compromised by bots. I do this stuff for a living, and don't want to have to deal with it when I get home as well.
 
-So the path forward was clear... I was going to find a new platform, start fresh, and keep it simple.  The solution was Hugo, forget about the past 13 years of random stuff I had posted and focus on what's important in my life right now. I will likely add a few more areas of interest on this site, but for now we will start with this post and maybe a recipe or two.
+So the path forward was clear... I was going to find a new platform, start fresh, and keep it simple. The solution was Hugo, forget about the past 13 years of random stuff I had posted and focus on what's important in my life right now. I will likely add a few more areas of interest on this site, but for now we will start with this post and maybe a recipe or two.
 
 Everyone needs to eat.

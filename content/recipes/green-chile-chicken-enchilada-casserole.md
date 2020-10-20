@@ -14,22 +14,22 @@ Source: https://realhousemoms.com/green-chili-chicken-enchilada-casserole/
 
 ## Ingredients
 
-* 2 cups (1.5 lbs) cooked chicken - diced or shredded you can use canned chicken
-* 2 cups shredded cheddar or cheddar-jack cheese
-* 1/3 cup sour cream
-* 4 oz can diced green chile drained (if needed)
-* 15 oz can green chili enchilada sauce
-* 12 6-inch corn tortillas
-* 10.5 oz can cream of chicken soup
-* salt & pepper to taste
+- 2 cups (1.5 lbs) cooked chicken - diced or shredded you can use canned chicken
+- 2 cups shredded cheddar or cheddar-jack cheese
+- 1/3 cup sour cream
+- 4 oz can diced green chile drained (if needed)
+- 15 oz can green chili enchilada sauce
+- 12 6-inch corn tortillas
+- 10.5 oz can cream of chicken soup
+- salt & pepper to taste
 
 ## Toppings
 
-* sour cream
-* salsa
-* shredded lettuce
-* tomatoes
-* jalapenos
+- sour cream
+- salsa
+- shredded lettuce
+- tomatoes
+- jalapenos
 
 ## Directions
 

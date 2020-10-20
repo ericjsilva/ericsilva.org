@@ -5,25 +5,24 @@ draft: false
 tags:
   - dutch oven
   - camping
-
 ---
 
 ## Ingredients
 
 ### Cake Mixture
 
-* 2 eggs
-* 1 cup milk
-* 1 cup sugar
-* 4 tbsp. vegetable shortening (melted)
-* 2 cups flour
-* 4 tsp. baking powder
-* salt
+- 2 eggs
+- 1 cup milk
+- 1 cup sugar
+- 4 tbsp. vegetable shortening (melted)
+- 2 cups flour
+- 4 tsp. baking powder
+- salt
 
 ### Cinnamon Sugar Mixture
 
-* 1 cup sugar
-* 2 tsp. cinnamon
+- 1 cup sugar
+- 2 tsp. cinnamon
 
 ## Directions
 
