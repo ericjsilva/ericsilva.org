@@ -7,6 +7,7 @@ images:
 tags:
   - scouts
   - fundraising
+  - 2020-tent-in
 ---
 
 ## My involvement with Scouting
