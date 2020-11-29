@@ -6,6 +6,7 @@ tags:
   - new mexico
   - southwest
   - mexican
+  - chicken
 ---
 
 Author: Liz Call

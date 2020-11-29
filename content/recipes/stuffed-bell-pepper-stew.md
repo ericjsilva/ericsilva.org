@@ -6,7 +6,12 @@ tags:
   - dutch oven
   - camping
   - easy
+  - hamburger
 ---
+
+Author: Chelsey Janes
+
+Source: https://50campfires.com/stuffed-bell-pepper-soup-dutch-oven/
 
 ## Ingredients
 
@@ -34,3 +39,5 @@ tags:
    - I always test it a few times to make sure the rice is how I like it.
 
 Serves about 8.
+
+

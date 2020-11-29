@@ -6,7 +6,10 @@ tags:
   - new mexico
   - southwest
   - mexican
+  - chicken
 ---
+
+Author: Barbara Silva
 
 ## Ingredients
 
@@ -46,3 +49,5 @@ You need the 13x9 baking dish, sprayed with non-stick spray and the bottom coate
 I just cut it up like lasagna to serve or you can use a big spoon to scoop the portions. You can increase the amounts of meat, tortillas and sauce depending on how many people you are feeding or if you are preparing them to freeze portions for later. They freeze and reheat well and you can get those 8x8 aluminum pans to make family size portions. Just be sure to double wrap with foil before putting them in the freezer and let them cool completely before freezing. That way they won’t be soggy when you reheat them.
 
 Experiment and adjust as you need to for your family.
+
+_Source:_ Barbara Silva

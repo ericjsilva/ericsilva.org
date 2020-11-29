@@ -5,6 +5,7 @@ draft: false
 tags:
   - dutch oven
   - camping
+  - desert
 ---
 
 ## Ingredients

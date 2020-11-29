@@ -21,6 +21,9 @@ googleAnalytics = "UA-249002-1"
   # noreferrerLinks = true
   # nofollowLinks = true
 
+[taxonomies]
+  tag = "tags"
+
 [params.meta]
   keywords = ""
   description = "A collection of "
