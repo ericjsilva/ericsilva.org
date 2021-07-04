@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/ericjsilva
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ericsilva.org
+  * I am ericjsilva (https://keybase.io/ericjsilva) on keybase.
+  * I have a public key with fingerprint 4E30 8D75 9F24 3C48 315C  D9AA 1DD8 AF6F 305E 289D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011b05d8dabb6ef7860537ccb875b636c0c0106dbfb3576277568c2d1927925f830a",
+      "fingerprint": "4e308d759f243c48315cd9aa1dd8af6f305e289d",
+      "host": "keybase.io",
+      "key_id": "1dd8af6f305e289d",
+      "kid": "01011b05d8dabb6ef7860537ccb875b636c0c0106dbfb3576277568c2d1927925f830a",
+      "uid": "d4831ca8edb2410d60eec6fbd7ac8900",
+      "username": "ericjsilva"
+    },
+    "merkle_root": {
+      "ctime": 1569774163,
+      "hash_meta": "750f160932dc8d212407cef38d3e006ad9c85c041b6cdca72c2f33b6dcd63338",
+      "seqno": 7798438
+    },
+    "revoke": {
+      "sig_ids": [
+        "74fbe45f039262df7f4b4621183618043f5a8c0927849acbe8b0cf85b9a51ec60f"
+      ]
+    },
+    "service": {
+      "hostname": "ericsilva.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1569774166,
+  "expire_in": 157680000,
+  "prev": "af855d48b2acfc4ba6ae3fc81fea534ecfd0b081c91ea8017078c156a7be4ed6",
+  "seqno": 148,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMK7AnicrZNbaBxVGMc3bdLiSov6EKTihdGHFJfknDlzLrOllUqxheKlpEZr3W7O
+NRn3MuvM7NYYFxUttiaQgJCiKAhJSKEuVkEN1EKpVRE3ViWIF4KX+uBDsLWI+iDU
+M4uiiI/Oy2Fm/t//+5/fd87ZDWsz2a7rP381BAf6Xur68Myj9Uxh+suhcUeEaszJ
+jzsl3Vl0Wek4KZYC5eQdAAGEAmDFFBeCaEMZARhRKQWjWBBEJJBWRJQwAmFKXEox
+YdJV0Hep72LDEOBOzjFBdURHtSioJtbW0wgwRbFvXA9JjyGIpfI5h0oxbohBAGuX
++coWjoZxWmHDCR7r/iC03+xLsRPvP/T/c+56x06lESVnWgnXg0ARoLUkRijKJfMB
+SIWxjqq8oq1aR4F8KA7KDe40c05FR6WyLkZhmKR4ZRKkIoiJT6kHCbJb5PFosaIT
+bmspBgYS4CNXSaZc6HqASm0QU0gDQLjyJcMSeFAQqSSnrnQNQoIoqQhCiNkksX64
+Gjp5Sn3mIWYTRLoRlnTaPA5GLLjYye93qGeE9rAByHeJqww1nvCICyFDBDLgIYM5
+k8DSYJ7PpdBMAGkYFj7H0G4eGKfQTJtFjUB2zNNJ/YNAB0B/GI3YSLUoTEIZlu2v
+0SSpxfkUTDJWS7UHtSj+6VIUQVXZg2IrGjqKg7BqQVnlv5mRnKMfqQWRLgapwo6P
+AfukfXTDWnKbE9uZCZdLIz3BCdfISAaN5hh5WhoFBGBQ+lBzBiAFlEnrzqlFohX5
+GyL0mA3KR6ypZVflST3STvPM6Qe7M13ZzLqeNekVymSvuOqvi3X42PrL8QcbX9gw
+UTr5yRsbF14nK7/lNncP9r64MFcoDt4/cN/7tbZClU/vvuPAkfavF2beWv24crr/
+/Gf1ndMD+8Zv+m5wabi36T+w/4vnZu7sfqL95K5DWxcvnGjMXbO3vgW0F28R7XNz
+p5amJr/atWOrqDy/R8mT2Z+Geq5MVrav7Svc1t7R2n32x+ueOrWwtzC7OHXDKztL
+72y6p7D7xrlLrUOlTOnlg283l++qtb6/1v/l8fP39m7b9uYSnrh4+Hj+mR+6549M
+jT22Whu6dXL63Z+fHV5d+b1nzcDs+vyW7dnZqfmZbz5qTrQ2Lbx3ebJ1qSt39OK6
+155Obr/562+Hl6/es7mc7fNKR+cHl88d+wNUIoH9
+=ZhwM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ericjsilva
+
+==================================================================
