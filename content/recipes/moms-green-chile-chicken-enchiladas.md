@@ -22,7 +22,7 @@ Author: Barbara Silva
 
 ### For the 1-lb. meat size batch
 
-- 2 cans of cream of “whatever” soup. I have used chicken, celery, mushroom, etc.
+- 2 cans of cream of "whatever" soup. I have used chicken, celery, mushroom, etc.
 - 1 large can of evaporated milk (you can substitute regular milk also. You will need 1-1/2 soup cans).
 - Blend the milk and soups together in a sauce pot until it starts to warm. Add 1 or 2 cans of chopped green chili.
 - The amount depends on how hot and spicy you want the sauce. For the smaller batch I normally just use one can.

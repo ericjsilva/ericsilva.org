@@ -42,6 +42,6 @@ For the Topping:
 
 ## Notes
 
-Be sure to mix the meat really well.  This is a very moist meatloaf recipe so under mixing can cause the meatloaf to be too soft/mushy.
+Be sure to mix the meat really well. This is a very moist meatloaf recipe so under mixing can cause the meatloaf to be too soft/mushy.
 
 Serves 3-4

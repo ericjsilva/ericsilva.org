@@ -34,7 +34,7 @@ tags:
 5. Mix together cinnamon and sugar in a bowl for the swirl mixture.
 6. Using 1/2 of the swirl mixture make 4 little mounds on top of the cake mixture in the dutch oven. Using a plastic knife or other plastic utensil, swirl the cinnamon/sugar mixture into the cake mixture.
 
-Put cover on oven and bake 20 minutes at 350 degrees. 16 coals on top and 8 on bottom for a 12” dutch oven.
+Put cover on oven and bake 20 minutes at 350 degrees. 16 coals on top and 8 on bottom for a 12" dutch oven.
 
 Remove lid and sprinkle remaining cinnamon and sugar mixture on top of coffee cake. Put lid back on and cook remaining 10 minutes.
 
