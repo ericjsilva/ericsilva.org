@@ -84,6 +84,12 @@ googleAnalytics = "UA-249002-1"
     url = "/recipes/"
 
   [[menu.main]]
+    name = "Comissioner Minutes"
+    weight = -100
+    identifier = "commissioner-minutes"
+    url = "/commissioner-minutes/"  
+  
+  [[menu.main]]
     name = "Tags"
     weight = -50
     identifier = "tag"
