@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo -t hermit --minify
+        run: hugo -t hermit
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
