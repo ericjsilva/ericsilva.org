@@ -17,10 +17,10 @@ Many people’s view of Scouting is limited to the boys and girls that help out 
 
 Scouting is important because of the skills it teaches young people. Not the fire building, knot tying, camping, or tree identification skills, but the skills that they will be able to use for their entire life. These are the skills that we begin to teach them from day one in the program.
 
-Skill #1: I promise to do my best.
-Skill #2: I promise to do my duty.
-Skill #3: I promise to help other people at all times.
-Skill #4: I promise to keep myself physically strong, mentally awake and morally straight.
+* Skill #1: I promise to do my best.
+* Skill #2: I promise to do my duty.
+* Skill #3: I promise to help other people at all times.
+* Skill #4: I promise to keep myself physically strong, mentally awake and morally straight.
 
 These are the words found in our Scout Oath. Our commitment about our current and future behavior. We do not recite this oath in secret, we recite it at every meeting, every Scouting event, and every ceremonious occasion. It’s stated aloud, in front of witnesses, so that everyone knows what is expected of us, and more importantly, what we expect of ourselves.
 
