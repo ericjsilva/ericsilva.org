@@ -3,6 +3,7 @@ title: "Was Santa Claus a Scout?"
 date: 2020-12-09T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 With Christmas upon us, I thought tonight I would try to answer an age-old question regarding Santa Claus: Is it possible that Santa Claus was a Scout?

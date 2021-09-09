@@ -3,6 +3,7 @@ title: "Scouting is Resilient"
 date: 2020-09-09T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 The year was 1935. The Boy Scouts of America was building its first-ever National Scout Jamboree site in Washington, D.C. It was, by all indications, going to be an epic event. But a "serious epidemic of infantile paralysis" — polio — had other plans. The Jamboree was postponed. On the occasion, President Franklin D. Roosevelt, who had been scheduled to host an event on the White House lawn, took to the radio waves to send a message of resolve and courage to Scouts around the country. Much of the nation listened on their tabletop radio. His message recognized the resilient nature of Scouting:

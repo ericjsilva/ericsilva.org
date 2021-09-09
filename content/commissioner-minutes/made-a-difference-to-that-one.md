@@ -3,6 +3,7 @@ title: "Made a difference to that one"
 date: 2020-10-14T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 A young man was walking down a beach at sunset. As he walked along, he began to see old man in the distance. As he walked nearer, he noticed that the old man kept leaning down, picking something up and throwing it out into the water. Time and again he kept hurling things out into the ocean. As the young man approached even closer, he noticed that the old man was picking up starfish that had been washed up on the beach and, one at a time, he was throwing them back into the water.

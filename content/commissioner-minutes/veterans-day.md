@@ -3,6 +3,7 @@ title: "The nation which forgets its defenders will itself be forgotten"
 date: 2020-11-11T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 _Armistitium_. A Latin word composed of the words _arma_, meaning "arms" (as in weapons) and _sistere_, meaning "to come to a stand" or "to cause to stop". You may know this word by its English version, armistice.

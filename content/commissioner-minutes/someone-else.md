@@ -3,6 +3,7 @@ title: "Someone Else"
 date: 2021-05-12T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 With great regret we announce the loss of one of the district’s most valuable families - Mr. &

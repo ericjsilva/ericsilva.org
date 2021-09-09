@@ -3,6 +3,7 @@ title: "Be Prepared - For Any Old Thing"
 date: 2021-02-10T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 What's the Scout motto? 

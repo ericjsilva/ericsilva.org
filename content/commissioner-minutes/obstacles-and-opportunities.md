@@ -3,6 +3,7 @@ title: "Obstacles and Opportunities"
 date: 2021-04-14T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 Once upon a time, there was a kingdom ruled by a pretty good king. And, through this kingdom, there was a road. And, on this road, there was a big rock right in the middle of the road.

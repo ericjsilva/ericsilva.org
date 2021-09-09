@@ -3,6 +3,7 @@ title: "A Game of Cards"
 date: 2021-03-10T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 Christopher Reeve was a movie actor who played the part of Superman. At the time, everything was going right for him. He had a successful acting career and a nice family; he was seemingly all set for a wonderful life. Then he had a horse-riding accident that left him paralyzed from the shoulders down. All he could move was his neck a little bit—he couldn’t even breathe on his own. It looked like everything had changed for Chris, and that the rest of his life would be very dismal.

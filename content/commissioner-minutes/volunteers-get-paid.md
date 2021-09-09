@@ -3,6 +3,7 @@ title: "Volunteer's Get Paid"
 date: 2021-04-14T19:00:00-04:00
 tags:
   - scouts
+  - commissioner minutes
 ---
 
 Most people do not realize that WE DO get paid when we volunteer with Scouts. 
