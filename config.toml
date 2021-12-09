@@ -4,6 +4,7 @@ canonifyurls = false
 languageCode = "en-US"
 paginate = 3
 theme = "hermit"
+timeout = 60000
 
 # use Chroma for syntax highlight
 pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
@@ -87,8 +88,8 @@ googleAnalytics = "UA-249002-1"
     name = "Comissioner Minutes"
     weight = -100
     identifier = "commissioner-minutes"
-    url = "/commissioner-minutes/"  
-  
+    url = "/commissioner-minutes/"
+
   [[menu.main]]
     name = "Tags"
     weight = -50
