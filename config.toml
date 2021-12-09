@@ -4,7 +4,6 @@ canonifyurls = false
 languageCode = "en-US"
 paginate = 3
 theme = "hermit"
-timeout = 60000
 
 # use Chroma for syntax highlight
 pygmentsStyle = "native" # other dark style options: vim, fruity, monokai
