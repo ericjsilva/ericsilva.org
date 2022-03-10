@@ -18,4 +18,4 @@ As a closing thought, I want to leave you with this… Mentors Gain as Much as t
 
 Thank you to each one of you for doing what you do for Scouting. Thank you for being here tonight, and have a safe journey home.
 
-_Adapted from: http://blog.girlscoutsww.org/2019/01/the-power-of-mentoring-in-girl-scouts/_
+*Adapted from: http://blog.girlscoutsww.org/2019/01/the-power-of-mentoring-in-girl-scouts/*
