@@ -39,4 +39,6 @@ Author: Barbara Silva
 1. Bake uncovered for 25-30 minutes.
 1. Let rest for 5 minutes and serve.
 
+Serves 4-6.
+
 _Source:_ Barbara Silva
