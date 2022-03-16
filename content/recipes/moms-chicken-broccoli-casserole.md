@@ -25,7 +25,7 @@ Author: Barbara Silva
 
 ## Directions
 
-1. Heat oven to 350°F
+1. Heat oven to 350°F.
 1. Cook and drain broccoli; arrange in a 9x13 baking dish.
 1. In a non-stick deep skillet, heat 1-2 tbsp of olive oil over medium heat.
 1. Add onion and cook for 1-2 minutes.
