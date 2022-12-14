@@ -15,4 +15,3 @@ For those that participated last weekend to distribute door hangers in support o
 That’s what Thanksgiving really is, a time to give thanks. The Pilgrims started it hundreds of years ago when they gathered to thank God for a bountiful harvest. When you sit down with your family and friends for Thanksgiving dinner this year, take time to count your blessings and give proper thanks for them.
 
 I am thankful to you all for being here tonight and thankful to each of you for volunteering your time in this thing called Scouting. I wish you all a happy and safe Thanksgiving and look forward to seeing you all again next month.
-
