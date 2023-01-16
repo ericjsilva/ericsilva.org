@@ -14,8 +14,8 @@ He would miss the paycheck, but he needed to retire. They could get by. The cont
 The carpenter said yes, but in time it was easy to see that his heart was not in his work. He resorted to shoddy workmanship, cut corners, and used inferior materials. It was an unfortunate way to end his career.
 
 When the carpenter finished his work, and the builder came to inspect the house, his employer
-handed the front-door key to the carpenter. “This is your house,” he said. “You own it outright.
-This is my gift to you for many years of faithful service!”
+handed the front-door key to the carpenter. "This is your house," he said. "You own it outright.
+This is my gift to you for many years of faithful service!"
 
 What a shock! What a shame! If he had only known, he was building his own house! He would
 have done it all so differently. Now he had to live in the home he had built and knew the

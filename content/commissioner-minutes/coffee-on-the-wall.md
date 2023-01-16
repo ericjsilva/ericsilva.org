@@ -8,18 +8,18 @@ tags:
 
 One evening I was in a well-known coffee shop with my friend in a neighboring town of Venice, Italy, the city which is known as the city of lights and water.
 
-As we were enjoying our precious time, an old man entered and sat at an empty table next to us. He called the waiter and placed his order saying, “Two cups of coffee, one on the wall.”
+As we were enjoying our precious time, an old man entered and sat at an empty table next to us. He called the waiter and placed his order saying, "Two cups of coffee, one on the wall."
 
 Coffee, Coffee on The Wall, Inspirational Story, Short Story, Motivational Story
 We, sitting, next to him noticed that he was served with one cup but he paid for two.
 
-When he left, the waiter placed a cup on the wall with a notice “A Cup of Coffee.”
+When he left, the waiter placed a cup on the wall with a notice "A Cup of Coffee."
 
-While we were still there, two men came and ordered 3 Cups. They had two but paid for three and left. This time again, the waiter placed a Cup on the wall saying, “A Cup of Coffee”.
+While we were still there, two men came and ordered 3 Cups. They had two but paid for three and left. This time again, the waiter placed a Cup on the wall saying, "A Cup of Coffee".
 
 It was something unique and perplexing for us. We were getting late so, we finished, paid the bill and left.
 
-After a few days, we visited the shop again. While we were having our coffee, a man poorly dressed entered. He got his seat and looked at the wall and said, “One cup from the wall.”
+After a few days, we visited the shop again. While we were having our coffee, a man poorly dressed entered. He got his seat and looked at the wall and said, "One cup from the wall."
 
 The waiter offered him the coffee with the customary respect and dignity. The man enjoyed and left without paying.
 
