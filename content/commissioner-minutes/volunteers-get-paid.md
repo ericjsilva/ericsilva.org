@@ -1,6 +1,6 @@
 ---
 title: "Leadership Evolution"
-date: 2022-05-10T19:00:00-04:00
+date: 2023-05-10T19:00:00-04:00
 tags:
   - scouts
   - commissioner minutes
