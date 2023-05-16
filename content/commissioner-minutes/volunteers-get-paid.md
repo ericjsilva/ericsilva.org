@@ -1,14 +1,19 @@
 ---
-title: "Volunteer's Get Paid"
-date: 2021-04-14T19:00:00-04:00
+title: "Leadership Evolution"
+date: 2022-05-10T19:00:00-04:00
 tags:
   - scouts
   - commissioner minutes
 ---
 
-Most people do not realize that WE DO get paid when we volunteer with Scouts. 
+We as an organization have been through quite a lot in the past five years. As we continue to navigate through these past challenges, it is important that we reflect on the qualities that define our organization, our members, and our leadership. Leadership is not simply about holding a position of authority, but rather about inspiring and empowering others to reach their full potential.
 
-The smiles we receive get directly deposited into our energy banks. The hugs and laughter frame our benefit plans. The high-fives after each accomplishment solidify our recognition and rewards system. S’mores, silly skits, and songs are the highlight of our personal time off. And when we go to the "office" to put in our one hour a week, we are surrounded by the most beautiful, landscaped "office" humans have ever known. 
+As an organization, the Boy Scouts of America has a rich tradition of cultivating leaders who are dedicated to the values of service, honor, and character. However, leadership is not static. It evolves and adapts to changing circumstances, and it requires constant attention and effort.
 
-And unlike the typical 9-to-5, when it comes time to retire we leave with a pocket full of faithful friends, a mind full of beautiful memories, and the satisfaction of knowing that what we did was important. We were needed and we will not be soon forgotten for we made a positive difference in the lives of our world’s children.
+As we move forward, we must embrace this evolution of leadership and continue to strive for excellence in all that we do. We must be willing to challenge ourselves and our assumptions, to seek out new ideas and perspectives, and to always be open to growth and improvement.
 
+At the heart of our mission as Scouts is the belief that we can make a positive difference in the world. This belief is rooted in the fundamental principles of leadership, and it is up to each of us to carry that torch forward.
+
+So let us embrace this spirit of leadership and let us continue to move forward as an organization with courage, conviction, and a commitment to excellence. Together, we can make a lasting impact on the world and inspire others to do the same.
+
+Thank you for being here tonight, and for making this an exceptional Roundtable season. I hope you found it valuable, and I would like to thank our Roundtable Commissioner and his roundtable staff for everything they did this past year to bring you an exceptional roundtable program.
