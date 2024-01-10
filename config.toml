@@ -2,7 +2,7 @@ baseURL = "https://ericsilva.org"
 title = "Eric Silva"
 canonifyurls = false
 paginate = 3
-theme = "hermit"
+theme = "papermod"
 timeout = 60000
 
 # use Chroma for syntax highlight
