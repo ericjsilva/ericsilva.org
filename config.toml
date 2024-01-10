@@ -13,7 +13,7 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." # This message is only used by the RSS template.
 googleAnalytics = "UA-249002-1"
 
-[params.author.name]
+[params.author]
   name = "Eric Silva"
 
 [blackfriday]
