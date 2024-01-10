@@ -3,7 +3,7 @@ title = "Eric Silva"
 canonifyurls = false
 languageCode = "en-US"
 paginate = 3
-theme = "hermit"
+theme = "hermit-V2"
 timeout = 60000
 
 # use Chroma for syntax highlight
