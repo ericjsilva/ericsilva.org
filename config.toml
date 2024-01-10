@@ -1,7 +1,6 @@
 baseURL = "https://ericsilva.org"
 title = "Eric Silva"
 canonifyurls = false
-defaultContentLanguage = "en"
 paginate = 3
 theme = "hermit"
 timeout = 60000
@@ -16,10 +15,6 @@ googleAnalytics = "UA-249002-1"
 
 [author]
   name = "Eric Silva"
-
-[languages]
-[languages.en]
-weight = 1
 
 [blackfriday]
   # hrefTargetBlank = true
