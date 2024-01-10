@@ -13,7 +13,7 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." # This message is only used by the RSS template.
 googleAnalytics = "UA-249002-1"
 
-[author]
+[params.author.name]
   name = "Eric Silva"
 
 [blackfriday]
@@ -48,7 +48,7 @@ googleAnalytics = "UA-249002-1"
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
   # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
+  # Check https://github.com/1bl4z3r/hermit-V2?tab=readme-ov-file#social-icons for more info.
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/ericjsilva"

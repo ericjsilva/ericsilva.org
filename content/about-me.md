@@ -3,7 +3,7 @@ title: "About Me"
 date: 2022-03-09
 ---
 
-{{< figure src="/img/about/eric_bw_profile-150x150.jpg" alt="Eric Silva" class="left">}}
+![profile](/img/about/eric_bw_profile-150x150.jpg#floatleft)
 I am a software developer. I started with Fortran and Pascal in 1994-1995, and continued to C and Java in college. For 10 years after that I was a full-time software engineer building enterprise Java web applications, and dabbled with PHP and Javascript in my spare time.
 
 I then did some work with C# and ASP.NET - these were the dark times. We no longer discuss this period in polite conversation.
