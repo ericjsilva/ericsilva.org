@@ -63,6 +63,16 @@
     font-size: 12pt;
   }
 
+  a {
+    text-decoration: none;
+    border: none;
+    box-shadow: none;
+  }
+
+  a[href]:after {
+    content: none !important;
+  }
+
   .title {
     padding: 0;
     margin: 0 auto;
