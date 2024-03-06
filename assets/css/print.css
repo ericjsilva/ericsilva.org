@@ -1,126 +1,78 @@
 @charset "utf-8";
 
 @page {
-  size: auto;
-  margin: 2cm;
-  margin-left: 4cm;
+  size: Letter portrait;
+  margin: .75in;
 }
 
 @media print {
+  * {
+    background-color: var(--white);
+    color: var(--black);
+  }
+
+  html {
+    width: 100%;
+    height: 100%;
+  }
+
   body {
-    background-color: transparent;
-    color: #000;
-    font-family: Helvetica, Avenir, System sans-serif;
+    font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman,
+      Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 1.4;
+    background: 0 0 !important;
+  }
+
+  header .text-logo img {
+    max-height: 36pt;
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  footer {
+    display: none;
+  }
+
+  main > div.post-nav {
+    display: none;
+  }
+
+  div.related-posts {
+    display: none;
+  }
+
+  p {
     font-size: 12pt;
-    line-height: 1.25;
-    /* site */
-    column-gap: 0;
-    columns: 2;
-    grid-template-columns: auto 148px;
-    grid-template-rows: 148px auto;
-    grid-template-areas: "hh qr" "mm mm" "ft ft";
   }
 
   h1 {
-    text-shadow: none;
-    width: calc(100% - 160px);
-    white-space: break-spaces;
-    overflow: unset;
+    font-size: 20pt;
   }
 
-  h2, h3 {
-    page-break-after: avoid;
-    orphans: 4;
-    widows: 4;
+  h2 {
+    font-size: 14pt;
   }
 
-  aside, nav, footer {
-    display: none !important;
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 12pt;
   }
 
-  a {
-    text-decoration-line: none;
-  }
-  /*
-    a[href^=http]::after {
-      content: ' < ' attr(href) ' > ';
-      color: var(--text-color);
-      text-decoration-line: none;
-    }
-*/
-  .anchor {
-    display: none !important;
-  }
-
-  p, ul, pre, blockquote, foot {
-    widows: 4;
-    orphans: 4;
-  }
-
-  .no-break {
-    page-break-inside: avoid;
-    widows: 99;
-    orphans: 99;
-  }
-
-  img, figure {
-    margin: 0;
+  .title {
     padding: 0;
-    page-break-inside: avoid;
+    margin: 0 auto;
   }
 
-  figcaption {
-    font-weight: bold;
-    line-height: 1.15;
-    margin: .25rem;
-  }
-
-  ul {
-    list-style: none;
-    widows: 6;
-    orphans: 6;
-  }
-
-  ol {
-    list-style: none;
-    widows: 6;
-    orphans: 6;
-  }
-
-  li {
-    line-height: 1.25;
-    list-style: none;
-  }
-
-  table {
-    page-break-inside: avoid;
-    widows: 6;
-    orphans: 6;
-  }
-
-  .qrcode {
-    position: absolute;
-    top: 0;
-    right: 16px;
-    z-index: 99;
-  }
-
-  .qrcode > img {
-    image-rendering: pixelated;
-    width: 128px;
-  }
-
-  aside, .no-print, .no-print * {
+  nav.menu,
+  nav.menu-under,
+  section.details {
     display: none !important;
   }
 
-  .print, .print * {
-    display: block !important;
+  #method {
+    page-break-before: always;
   }
-
-    .printsub, .printsub * {
-      display: inline !important;
-    }
-
-
 }
