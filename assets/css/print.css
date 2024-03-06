@@ -44,6 +44,10 @@
     display: none;
   }
 
+  hr.post-end {
+    display: none;
+  }
+
   p {
     font-size: 12pt;
   }
@@ -67,7 +71,7 @@
     text-decoration: none !important;
     border: none;
     box-shadow: none !important;
-    color: #000000;
+    color: #000000 !important;
     transition-property: none !important;
   }
 
