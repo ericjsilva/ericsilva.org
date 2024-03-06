@@ -40,6 +40,10 @@
     display: none;
   }
 
+  a.anchor > svg {
+    display: none;
+  }
+
   p {
     font-size: 12pt;
   }
