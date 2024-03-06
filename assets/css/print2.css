@@ -1,0 +1,105 @@
+@media print {
+  * {
+    background-color: var(--white);
+  }
+
+  html {
+    margin-left: 1.25cm !important;
+  }
+
+  body {
+    font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman,
+      Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 1.4;
+    background: 0 0 !important;
+  }
+
+  header .text-logo img {
+    max-height: 36pt;
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  p {
+    font-size: 12pt;
+  }
+
+  h1 {
+    font-size: 20pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+  }
+
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 12pt;
+  }
+
+  .title {
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  p,
+  div,
+  span,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .article-title {
+    color: var(--black);
+  }
+
+  .text-logo,
+  .single-recipe .title {
+    padding-bottom: 1rem;
+  }
+
+  .follow-buttons,
+  .description,
+  .single-recipe .category,
+  .single-recipe img,
+  .recipe-description,
+  .searchform,
+  .follow-head,
+  .secondary,
+  .credits,
+  .disclaimer,
+  .related-head,
+  .related,
+  #article-nav,
+  .recipe-footer,
+  .recipe-tag-list,
+  .breadcrumb,
+  button.anchor,
+  ul li sup,
+  #print,
+  #google-news,
+  #translateButton,
+  #translateDialog,
+  .share-head,
+  #share-buttons,
+  .newsletter,
+  .list-head,
+  .list-of-categories {
+    display: none;
+  }
+
+  nav.menu,
+  nav.menu-under,
+  section.details {
+    display: none !important;
+  }
+
+  #method {
+    page-break-before: always;
+  }
+}
