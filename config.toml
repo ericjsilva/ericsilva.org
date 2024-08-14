@@ -99,3 +99,8 @@ googleAnalytics = "UA-249002-1"
     name = "About"
     url = "about-me/"
     weight = 20
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
