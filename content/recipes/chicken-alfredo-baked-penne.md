@@ -6,6 +6,7 @@ tags:
   - easy
   - chicken
   - italian
+  - pasta
 ---
 
 Adapted recipe from original author: Nicole Nared-Washington
