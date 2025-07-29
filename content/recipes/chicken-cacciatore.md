@@ -7,6 +7,7 @@ tags:
   - camping
   - easy
   - chicken
+  - pasta
 
 ---
 

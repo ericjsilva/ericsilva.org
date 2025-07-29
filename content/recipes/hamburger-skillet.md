@@ -5,6 +5,7 @@ draft: false
 tags:
   - easy
   - hamburger
+  - pasta
 ---
 
 A simple one-pot, do-it-yourself hamburger skillet meal. Adjust to your family's personal preferences and tastes.
