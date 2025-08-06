@@ -16,11 +16,11 @@ Adapted from original recipe by Sean Peiffer
 - 1 to 1.5 lbs. chicken breasts, cut into bite size pieces
 - 2 tbsp oil (olive, peanut, canola, or sesame)
 - 1/2 medium onion, diced
-- 1 clove garlic, minced
+- 1-2 cloves garlic, minced
 - 1 cup peanuts (unsalted party peanuts work best)
 - 2 tbsp corn starch
-- 1 tbsp ground or minced
-- 1 tbsp sugar
+- 1 tbsp ginger, ground or minced
+- 1 tbsp granulated sugar (or honey)
 - 1/4 to 1/2 tsp cayenne pepper (depending on how spicy you want it)
 - 1 tsp curry powder
 - 1 tbsp dried parsley
