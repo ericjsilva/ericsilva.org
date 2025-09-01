@@ -32,3 +32,5 @@ You can use full size potatoes cut into 1" pieces, or use baby red potatoes cut 
 4. Add olive oil, garlic, salt, pepper, Italian seasoning, parmesan cheese, and dried parsley. Toss to coat potatoes and distribute seasonings evenly.
 5. Spread potatoes evenly in a single layer on the cooking sheet.
 6. Bake for 35-45 minutes until the potatoes are golden brown and fork tender. 
+
+Serves 4.

@@ -9,5 +9,5 @@ My personal website built with Hugo.
 brew install docker
 brew install colima
 colima start
-docker run -v $(pwd):/src -p 1313:1313 jakejarvis/hugo-extended:latest server --buildDrafts --buildFuture --bind 0.0.0.0
+docker run -v $(pwd):/src -p 1313:1313 peaceiris/hugo:latest server --buildDrafts --buildFuture --bind 0.0.0.0
 ```

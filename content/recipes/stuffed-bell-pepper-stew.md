@@ -7,6 +7,7 @@ tags:
   - camping
   - easy
   - hamburger
+  - one-pot
 ---
 
 Author: Chelsey Janes
