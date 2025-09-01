@@ -6,6 +6,7 @@ tags:
   - quick
   - easy
   - hamburger
+  - one-pot
 ---
 
 Author: Barbara Silva

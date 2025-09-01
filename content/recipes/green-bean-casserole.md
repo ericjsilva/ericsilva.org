@@ -6,6 +6,7 @@ tags:
   - easy
   - thanksgiving
   - christmas
+  - comfort
 ---
 
 Author: Barbara Silva

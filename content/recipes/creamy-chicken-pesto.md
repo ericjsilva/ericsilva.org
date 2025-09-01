@@ -6,6 +6,7 @@ tags:
   - easy
   - chicken
   - pasta
+  - one-pot
 ---
 
 ## Ingredients
