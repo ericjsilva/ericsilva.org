@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Eric Silva"
+copyright = "Eric Silva"
+
+[params]
+  dateFormat = "2006-01-02"
+  description = "Software developer. Dad. Photographer. Woodworker. Geek. Nerd. I like math, space, donuts, coffee, Mt. Dew, owls, and 80s music."
+
+[params.author]
+  name = "Eric Silva"
+  email = "ericjsilva@gmail.com"
+  headline = "Software Developer, Photographer, Woodworker"
+  bio = "Software developer. Dad. Photographer. Woodworker. Geek. Nerd. I like math, space, donuts, coffee, Mt. Dew, owls, and 80s music."
+  links = [
+    { github = "https://github.com/ericjsilva" },
+    { linkedin = "https://linkedin.com/in/ericjsilva" },
+    { instagram = "https://instagram.com/ericjsilva" },
+    { youtube = "https://youtube.com/@ericjsilva" },
+  ]

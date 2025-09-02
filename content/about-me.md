@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 I am a software developer. I started with Fortran and Pascal in 1994-1995, and continued to C and Java in college. For 10 years after that I was a full-time software engineer building enterprise Java web applications, and dabbled with PHP and Javascript in my spare time.
