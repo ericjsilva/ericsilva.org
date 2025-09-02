@@ -1,6 +1,6 @@
 ---
 title: "Green Bean Casserole"
-date: 2020-11-27T19:00:00-05:00
+date: 2020-11-27
 draft: false
 tags:
   - easy

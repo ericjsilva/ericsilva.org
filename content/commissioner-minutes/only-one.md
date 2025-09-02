@@ -1,6 +1,6 @@
 ---
 title: "Only One"
-date: 2022-10-12T19:00:00-04:00
+date: 2022-10-12
 tags:
   - scouts
   - commissioner minutes

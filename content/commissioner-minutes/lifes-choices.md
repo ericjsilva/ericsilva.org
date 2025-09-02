@@ -1,6 +1,6 @@
 ---
 title: "Life's Choices"
-date: 2022-12-14T19:00:00-05:00
+date: 2022-12-14
 tags:
   - scouts
   - commissioner minutes

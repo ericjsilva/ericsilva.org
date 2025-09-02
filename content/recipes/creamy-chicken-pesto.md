@@ -1,6 +1,6 @@
 ---
 title: "Creamy Chicken Pesto"
-date: 2025-07-29T12:00:00-04:00
+date: 2025-07-29
 draft: false
 tags:
   - easy

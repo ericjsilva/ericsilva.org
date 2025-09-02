@@ -1,6 +1,6 @@
 ---
 title: "Cinnamon Swirl Coffee Cake"
-date: 2019-09-29T13:31:21-04:00
+date: 2019-09-29
 draft: false
 tags:
   - dutch oven

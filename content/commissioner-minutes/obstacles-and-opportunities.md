@@ -1,6 +1,6 @@
 ---
 title: "Obstacles and Opportunities"
-date: 2021-04-14T19:00:00-04:00
+date: 2021-04-14
 tags:
   - scouts
   - commissioner minutes

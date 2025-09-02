@@ -1,6 +1,6 @@
 ---
 title: "Tent-in Delayed Start"
-date: 2020-10-30T12:00:00-04:00
+date: 2020-10-30
 tags:
   - scouts
   - fundraising

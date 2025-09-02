@@ -1,6 +1,6 @@
 ---
 title: "The Importance of Scouting"
-date: 2021-05-30T12:00:00-04:00
+date: 2021-05-30
 tags:
   - scouts
 ---

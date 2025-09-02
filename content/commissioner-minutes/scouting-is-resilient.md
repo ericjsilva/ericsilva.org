@@ -1,6 +1,6 @@
 ---
 title: "Scouting is Resilient"
-date: 2020-09-09T19:00:00-04:00
+date: 2020-09-09
 tags:
   - scouts
   - commissioner minutes

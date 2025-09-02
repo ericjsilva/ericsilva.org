@@ -1,6 +1,6 @@
 ---
 title: "The Power of Mentoring"
-date: 2021-11-10T19:00:00-05:00
+date: 2021-11-10
 tags:
   - scouts
   - commissioner minutes

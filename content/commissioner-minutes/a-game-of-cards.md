@@ -1,6 +1,6 @@
 ---
 title: "A Game of Cards"
-date: 2021-03-10T19:00:00-04:00
+date: 2021-03-10
 tags:
   - scouts
   - commissioner minutes

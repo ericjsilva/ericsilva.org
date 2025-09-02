@@ -1,6 +1,6 @@
 ---
 title: "Cabbage and Ramen Skillet"
-date: 2024-01-10T10:25:00-05:00
+date: 2024-01-10
 draft: false
 tags:
   - quick

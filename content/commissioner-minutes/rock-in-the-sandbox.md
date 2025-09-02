@@ -1,6 +1,6 @@
 ---
 title: "The Rock in the Sandbox"
-date: 2022-09-14T19:00:00-04:00
+date: 2022-09-14
 tags:
   - scouts
   - commissioner minutes

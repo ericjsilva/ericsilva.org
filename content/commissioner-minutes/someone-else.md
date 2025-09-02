@@ -1,6 +1,6 @@
 ---
 title: "Someone Else"
-date: 2021-05-12T19:00:00-04:00
+date: 2021-05-12
 tags:
   - scouts
   - commissioner minutes

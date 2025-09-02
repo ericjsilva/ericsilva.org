@@ -1,6 +1,6 @@
 ---
 title: "Hamburger Skillet"
-date: 2024-07-17T20:00:00-04:00
+date: 2024-07-17
 draft: false
 tags:
   - easy

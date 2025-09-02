@@ -1,6 +1,6 @@
 ---
 title: "The Golden Rule"
-date: 2022-06-23T16:00:00-04:00
+date: 2022-06-23
 tags:
   - business
   - life-skills

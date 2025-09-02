@@ -1,6 +1,6 @@
 ---
 title: "Practical and Inexpensive Gifts for Scouts"
-date: 2019-09-29T13:43:17-04:00
+date: 2019-09-29
 tags:
   - scouts
   - gift ideas

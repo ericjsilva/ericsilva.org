@@ -1,6 +1,6 @@
 ---
 title: "Roasted Red Potatoes"
-date: 2025-04-20T09:00:00-05:00
+date: 2025-04-20
 draft: false
 tags:
   - quick

@@ -1,6 +1,6 @@
 ---
 title: "Motivation is Not Enough"
-date: 2021-09-08T19:00:00-04:00
+date: 2021-09-08
 tags:
   - scouts
   - commissioner minutes

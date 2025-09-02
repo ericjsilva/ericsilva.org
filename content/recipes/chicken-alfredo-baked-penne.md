@@ -1,6 +1,6 @@
 ---
 title: "Chicken Alfredo Baked Penne"
-date: 2020-11-28T21:15:00-05:00
+date: 2020-11-28
 draft: false
 tags:
   - easy

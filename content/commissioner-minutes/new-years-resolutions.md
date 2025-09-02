@@ -1,6 +1,6 @@
 ---
 title: "New Year's Resolutions"
-date: 2023-01-11T19:00:00-05:00
+date: 2023-01-11
 tags:
   - scouts
   - commissioner minutes

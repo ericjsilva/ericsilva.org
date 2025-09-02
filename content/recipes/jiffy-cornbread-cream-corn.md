@@ -1,6 +1,6 @@
 ---
 title: "Jiffy Cornbread with Creamed Corn"
-date: 2024-01-23T14:25:00-05:00
+date: 2024-01-23
 draft: false
 tags:
   - easy
