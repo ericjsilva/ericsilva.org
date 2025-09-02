@@ -1,6 +1,6 @@
 ---
 title: "Was Santa Claus a Scout?"
-date: 2020-12-09T19:00:00-05:00
+date: 2020-12-09
 tags:
   - scouts
   - commissioner minutes

@@ -1,6 +1,6 @@
 ---
 title: "Mom's Chicken Broccoli Casserole"
-date: 2022-03-15T23:30:00-05:00
+date: 2022-03-15
 draft: false
 tags:
   - chicken

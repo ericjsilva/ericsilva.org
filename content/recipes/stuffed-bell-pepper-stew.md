@@ -1,6 +1,6 @@
 ---
 title: "Stuffed Bell Pepper Stew"
-date: 2020-10-20T19:00:00-04:00
+date: 2020-10-20
 draft: false
 tags:
   - dutch oven

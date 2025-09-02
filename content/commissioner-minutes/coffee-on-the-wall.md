@@ -1,6 +1,6 @@
 ---
 title: "Coffee on the Wall"
-date: 2022-02-09T19:00:00-05:00
+date: 2022-02-09
 tags:
   - scouts
   - commissioner minutes

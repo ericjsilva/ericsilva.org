@@ -1,6 +1,6 @@
 ---
 title: "The nation which forgets its defenders will itself be forgotten"
-date: 2020-11-11T19:00:00-05:00
+date: 2020-11-11
 tags:
   - scouts
   - commissioner minutes

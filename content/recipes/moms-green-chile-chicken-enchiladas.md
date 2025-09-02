@@ -1,6 +1,6 @@
 ---
 title: "Mom's Green Chile Chicken Enchiladas"
-date: 2019-11-29T17:19:30-05:00
+date: 2019-11-29
 draft: false
 tags:
   - new mexico

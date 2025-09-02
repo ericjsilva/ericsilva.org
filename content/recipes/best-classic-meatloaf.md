@@ -1,6 +1,6 @@
 ---
 title: "Best Classic Meatloaf"
-date: 2020-11-28T20:00:00-05:00
+date: 2020-11-28
 draft: false
 tags:
   - easy

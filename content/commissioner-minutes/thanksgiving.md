@@ -1,6 +1,6 @@
 ---
 title: "Thanksgiving"
-date: 2022-11-09T19:00:00-05:00
+date: 2022-11-09
 tags:
   - scouts
   - commissioner minutes

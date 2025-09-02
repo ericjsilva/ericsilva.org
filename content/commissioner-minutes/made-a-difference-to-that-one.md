@@ -1,6 +1,6 @@
 ---
 title: "Made a difference to that one"
-date: 2020-10-14T19:00:00-04:00
+date: 2020-10-14
 tags:
   - scouts
   - commissioner minutes

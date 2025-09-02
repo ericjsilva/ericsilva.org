@@ -1,6 +1,6 @@
 ---
 title: "Teriyaki Chicken"
-date: 2020-11-26T11:45:00-05:00
+date: 2020-11-26
 draft: false
 tags:
   - easy

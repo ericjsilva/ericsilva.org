@@ -1,6 +1,6 @@
 ---
 title: "A Bicycle"
-date: 2021-12-08T19:00:00-05:00
+date: 2021-12-08
 tags:
   - scouts
   - commissioner minutes

@@ -1,6 +1,6 @@
 ---
 title: "The Parable of the Mule"
-date: 2022-04-13T19:00:00-05:00
+date: 2022-04-13
 tags:
   - scouts
   - commissioner minutes

@@ -1,6 +1,6 @@
 ---
 title: "Tent-in Day 2"
-date: 2020-10-31T21:00:00-04:00
+date: 2020-10-31
 tags:
   - scouts
   - fundraising

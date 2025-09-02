@@ -1,6 +1,6 @@
 ---
 title: "Building the Team"
-date: 2023-03-08T19:00:00-05:00
+date: 2023-03-08
 tags:
   - scouts
   - commissioner minutes

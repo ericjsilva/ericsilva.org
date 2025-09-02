@@ -1,6 +1,6 @@
 ---
 title: "Staying Positive"
-date: 2023-02-08T19:00:00-05:00
+date: 2023-02-08
 tags:
   - scouts
   - commissioner minutes

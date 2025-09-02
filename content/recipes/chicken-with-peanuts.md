@@ -1,6 +1,6 @@
 ---
 title: "Chicken with Peanuts"
-date: 2020-11-26T11:15:00-05:00
+date: 2020-11-26
 draft: false
 tags:
   - easy

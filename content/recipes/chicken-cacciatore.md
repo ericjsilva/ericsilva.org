@@ -1,6 +1,6 @@
 ---
 title: "Chicken Cacciatore"
-date: 2025-03-11T19:00:00-04:00
+date: 2025-03-11
 draft: false
 tags:
   - dutch oven
