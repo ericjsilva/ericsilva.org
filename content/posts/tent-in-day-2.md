@@ -1,13 +1,9 @@
 ---
 title: "Tent-in Day 2"
 date: 2020-10-31T21:00:00-04:00
-draft: false
-toc: true
-images:
 tags:
   - scouts
   - fundraising
-  - 2020-tent-in
 ---
 
 It's been 30 hours since I entered my tent as a participant in the [Hawk Mountain Council's](https://hmc-bsa.org) "Virtual" Tent-In. Instead of "virtual" I went with "literal" and "physical". Instead of having people donate money to "bail me out" I asked people to donate to keep me locked up.

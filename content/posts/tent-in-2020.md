@@ -1,13 +1,9 @@
 ---
 title: "Tent-in 2020 Fundraiser"
 date: 2020-10-01T05:29:00-04:00
-draft: false
-toc: true
-images:
 tags:
   - scouts
   - fundraising
-  - 2020-tent-in
 ---
 
 ## My involvement with Scouting

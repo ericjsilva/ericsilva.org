@@ -1,13 +1,9 @@
 ---
 title: "Tent-in Delayed Start"
 date: 2020-10-30T12:00:00-04:00
-draft: false
-toc: true
-images:
 tags:
   - scouts
   - fundraising
-  - 2020-tent-in
 ---
 
 I had fully intended to be in the tent starting at 12:00pm EDT, but I had some work and personal things pop-up that could not be avoided and so I am delayed a bit. I am working to get things setup and should be in the tent and online by 2:00pm.
