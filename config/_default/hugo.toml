@@ -10,7 +10,7 @@ enableRobotsTXT = true
 enableEmoji = true
 summaryLength = 0
 rssLimit = 10
-googleAnalytics = "UA-249002-1"
+googleAnalytics = "G-9ZNVJDTYYC"
 
 [module]
   [[module.imports]]
