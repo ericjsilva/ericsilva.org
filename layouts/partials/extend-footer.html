@@ -1,0 +1,14 @@
+{{- if .HasShortcode "lightbox-gallery" -}}
+<script type="module">
+import PhotoSwipeLightbox from "https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.min.js";
+import PhotoSwipe from "https://unpkg.com/photoswipe@5/dist/photoswipe.esm.min.js";
+
+const lightbox = new PhotoSwipeLightbox({
+  gallery: ".pswp-gallery",
+  children: "a",
+  pswpModule: () => PhotoSwipe,
+});
+
+lightbox.init();
+</script>
+{{- end -}}

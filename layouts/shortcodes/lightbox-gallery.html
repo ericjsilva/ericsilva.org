@@ -1,0 +1,22 @@
+{{- $pattern := .Get "match" | default "*.webp" -}}
+{{- $altPrefix := .Get "altPrefix" | default .Page.Title -}}
+{{- $thumbSize := printf "%s webp q85" (.Get "thumbSize" | default "520x") -}}
+{{- $displaySize := printf "%s webp q90" (.Get "displaySize" | default "1600x") -}}
+{{- $resources := .Page.Resources.Match $pattern -}}
+{{- $resources = sort $resources "Name" -}}
+
+{{- if $resources }}
+<div class="pswp-gallery lightbox-gallery">
+  {{- range $index, $img := $resources }}
+    {{- $display := $img.Resize $displaySize -}}
+    {{- $thumb := $img.Resize $thumbSize -}}
+    {{- $number := add $index 1 -}}
+    {{- $alt := cond (ne $altPrefix "") (printf "%s %02d" $altPrefix $number) (printf "Image %02d" $number) -}}
+    <a class="lightbox-gallery__link" href="{{ $display.RelPermalink }}" data-pswp-width="{{ $display.Width }}" data-pswp-height="{{ $display.Height }}" data-pswp-caption="{{ $alt }}" aria-label="{{ $alt }}">
+      <img class="lightbox-gallery__thumb" src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
+    </a>
+  {{- end }}
+</div>
+{{- else }}
+<p class="lightbox-gallery__empty">No images found for pattern "{{ $pattern }}".</p>
+{{- end -}}
