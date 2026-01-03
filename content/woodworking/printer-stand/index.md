@@ -1,6 +1,6 @@
 ---
 title: "Printer Stand"
-date: 2026-09-01T00:00:00-5:00
+date: 2025-09-01T00:00:00-05:00
 draft: false
 tags:
   - woodworking
