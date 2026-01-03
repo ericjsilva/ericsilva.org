@@ -9,13 +9,16 @@ tags:
   - pocket-screws
 categories:
   - woodworking
+skill_level: "intermediate"
+time_estimate: "2 weekends"
+cost_estimate: "Moderate ($100-$150)"
 ---
 
 ## Project Overview
-The printer stand was made from a single sheet of 3/4" plywood, that was sanded and stained in a dark walnut oil based stain and finished with a satin wipe-on polyurathane.
+The printer stand was made from a single sheet of 3/4" plywood, that was sanded and stained in a dark walnut oil based stain and finished with tung oil.
 
 ## Construction
-The center self is recessed into a dado for strength with the rest of the cabinet being contructed using pocket screws. The drawers are also constructed with pocket screws. A small piece of 1/4" plywood was cut to enclose the back of the cabinet and 1/4" plywood was also used for the drawer bottoms. Birch edge banding was applied to the front surfaces and drawer fronts to hide the plywood edges. Finally, 1" trim molding was mitered and attached to the top using glue and brad nails, which was also stained to match.
+The center shelf is recessed into a dado for strength with the rest of the cabinet being contructed using pocket screws. The drawers are also constructed with pocket screws. A small piece of 1/4" plywood was cut to enclose the back of the cabinet and 1/4" plywood was also used for the drawer bottoms. Birch edge banding was applied to the front surfaces and drawer fronts to hide the plywood edges. Finally, 1" trim molding was mitered and attached to the top using glue and brad nails, which was also stained to match.
 
 ## Materials
 - 3/4" plywood (single sheet)
@@ -35,7 +38,7 @@ The center self is recessed into a dado for strength with the rest of the cabine
 
 ## Finishing
 - Dark walnut oil based stain
-- Satin wipe-on polyurathane
+- Tung oil
 
 ## Photos
 
