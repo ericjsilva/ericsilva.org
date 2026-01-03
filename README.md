@@ -5,9 +5,18 @@ My personal website built with Hugo.
 
 ## Local Development
 
+### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Colima](https://github.com/abiosoft/colima)
+- [Just](https://github.com/casey/just)
+
+### Commands
+
+- Start local server: `just server`
+- Convert images to WebP: `just convert-images <directory>`
+
+For example:
 ```shell
-brew install docker
-brew install colima
-colima start
-docker run --rm -v $(pwd):/src -p 1313:1313 peaceiris/hugo:latest-mod server --buildDrafts --buildFuture --bind 0.0.0.0
+just convert-images content/woodworking/printer-stand
 ```
