@@ -1,9 +1,12 @@
 ---
 title: "The Software Engineer's AI Manifesto: A Declaration of Accountability"
 date: 2026-03-15T12:00:00-04:00
-draft: true
-tags: ["AI", "Software Engineering", "Ethics", "Manifesto"]
-categories: ["Technology"]
+tags:
+  - "AI"
+  - "Software Engineering"
+  - "Ethics"
+categories:
+  - "Technology"
 ---
 
 Software engineering is the systematic, disciplined, and quantifiable approach to developing, operating, and maintaining software systems. It applies engineering principles—such as structured design, testing, and project management—_beyond just writing code_ to ensure software is reliable, scalable, and efficient. Software engineering is, at its core, an exercise in human creativity and intent. Beginning in 2023, we have reached an inflection point in the [Generative AI hype-cycle](https://www.gartner.com/en/articles/hype-cycle-for-genai) curve. Generative AI offers unprecedented velocity, but velocity without understanding is a liability. Power and speed without discipline is dangerous... and in some cases **[outright destructive](https://www.businessinsider.com/meta-ai-alignment-director-openclaw-email-deletion-2026-2)**.
