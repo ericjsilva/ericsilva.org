@@ -58,6 +58,12 @@ We must also consider the long-term impact of AI on the very fabric of our profe
 * **Erosion of Creativity:** Creativity has always been an important part of software development. It is the ability to think outside the box and come up with new ideas. However, with the rise of GenAI, we are seeing a decline in creativity. Developer are more quick to accept the output of AI tools rather than take time to think creatively and come up with their own ideas on how to solve a particular task. The result is code that the developer doesn't own. It's not theirs, and there is no emotional connection to the result.
 * **Erosion of Basic Software Engineering Skills:** The over-reliance on GenAI continues to erode and may lead to the extinction of basic software engineering skills. Skills like creative thinking, debugging, problem solving, contextual understanding, architecture and design, security, and ethics are all at risk of being lost. With the next generation of developers not having to learn these skills, exercise and hone these skills, and continue to practice proper software engineering, we may be heading toward a future where we have a generation of developers who are unable to build or maintain software without the help of AI. 
 
+## Vigilance Fatigue
+
+Having to constantly "babysit" the AI, continuously iterate on prompts, and meticulously try to get the results out of the AI that you expect can only be done for so long before things slip through the cracks. This phenomenon, known as **vigilance fatigue**, occurs when the cognitive load of verifying generated code exhausts our attention to detail. As fatigue sets in, the urge to accept "good enough" output grows, and developers become more likely to approve flawed logic, missing edge cases, and subtle vulnerabilities. The human reviewer eventually becomes a passive rubber stamp for the machine's confident mistakes.
+
+* **Brain Fry:** When Steve Yegge launched Gas Town, an open-source platform that allows users to orchestrate swarms of AI agents simultaneously, building a complex system in a matter of minutes. While impressive on the surface, the reality is that there is really too much going on for a single person to reasonably comprehend. This constant cognative load, saturated attention and mental fatigue is what leads to "brain fry"; not from developers writing code, but from having to "manage" the AI agents and their output.
+
 ## The Code of Conduct
 
 To operate ethically in an AI-augmented landscape, developers and creators must adhere to strict rules of engagement.
@@ -69,7 +75,7 @@ To operate ethically in an AI-augmented landscape, developers and creators must 
 | **Maintenance** | Generating test coverage for human-authored logic. | Delegating debugging to an AI when the original logic is not understood. |
 | **Content & Design** | Brainstorming and mocking up low-fidelity concepts. | Presenting generated, unverified output as finished, expert work. |
 
-### The Burden of the Builder
+## The Burden of the Builder
 
 Surface-level AI solutions hide edge cases, security flaws, and performance bottlenecks. Eventually, those land mines will explode in production. When they do, the AI will not be there to debug the system, and without a mental model, analysis and recovery will be excruciatingly difficult. 
 
