@@ -16,6 +16,7 @@ Source: Based on https://www.campbells.com/recipes/southwest-skillet/
 ## Ingredients
 
 - 1 lb. ground beef
+- 1/2 of a medium yellow or sweet onion, diced
 - 1/2 tsp. garlic powder (more or less to taste)
 - 1 tbsp. chili powder
 - 1 can (10.5 oz) Campbell's Beefy Mushroom Soup
@@ -28,7 +29,7 @@ Source: Based on https://www.campbells.com/recipes/southwest-skillet/
 
 ## Directions
 
-1. In a large skillet over medium-high heat, cook the ground beef until well browned, stirring often to break it up. Drain any excess fat. Season with salt, pepper, and garlic powder to taste.
+1. In a large skillet over medium-high heat, cook the ground beef and diced onion until the beef is well browned and the onions are soft, stirring often to break up the beef. Drain any excess fat. Season with salt, pepper, and garlic powder to taste.
 2. Stir in the chili powder and cook for about a minute until fragrant.
 3. Stir in the Beefy Mushroom soup, undrained Rotel, black beans, and corn. Bring the mixture to a boil, then reduce the heat to low. Cover and simmer for 10 minutes.
 4. Remove the skillet from the heat. Stir in the uncooked instant rice. 
