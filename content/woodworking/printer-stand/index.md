@@ -15,18 +15,22 @@ cost_estimate: "Moderate ($100-$150)"
 ---
 
 ## Project Overview
+
 The printer stand was made from a single sheet of 3/4" plywood, that was sanded and stained in a dark walnut oil based stain and finished with tung oil.
 
 ## Construction
+
 The center shelf is recessed into a dado for strength with the rest of the cabinet being contructed using pocket screws. The drawers are also constructed with pocket screws. A small piece of 1/4" plywood was cut to enclose the back of the cabinet and 1/4" plywood was also used for the drawer bottoms. Birch edge banding was applied to the front surfaces and drawer fronts to hide the plywood edges. Finally, 1" trim molding was mitered and attached to the top using glue and brad nails, which was also stained to match.
 
 ## Materials
+
 - 3/4" plywood (single sheet)
 - 1/4" plywood (back panel and drawer bottoms)
 - Birch edge banding
 - 1" trim molding
 
 ## Tools Used
+
 - Track saw
 - Table saw
 - Miter saw
@@ -37,6 +41,7 @@ The center shelf is recessed into a dado for strength with the rest of the cabin
 - Measuring tape and square
 
 ## Finishing
+
 - Dark walnut oil based stain
 - Tung oil
 

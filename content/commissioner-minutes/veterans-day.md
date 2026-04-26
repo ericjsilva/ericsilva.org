@@ -23,4 +23,3 @@ Thank you to all veterans and their families for serving our nation selflessly. 
 _Would all veterans here tonight please stand._
 
 Please join me and take the time to honor and thank each of these fellow Scout leaders who have served to protect this nation and our freedoms.
-

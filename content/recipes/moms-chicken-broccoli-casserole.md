@@ -14,7 +14,7 @@ Author: Barbara Silva
 - 16-20 oz broccoli spears/florets
 - 3 cups diced chicken (1.5-2 lbs chicken breasts)
 - 1 medium yellow or sweet onion, diced or chopped
-- 1-2 stalks of celery, chopped 
+- 1-2 stalks of celery, chopped
 - 1 can cream of "whatever" soup (chicken, mushroom, etc.)
 - 1 cup mayonnaise or miracle whip (your choice)
 - 1-2 tbsp curry powder (depending on taste)

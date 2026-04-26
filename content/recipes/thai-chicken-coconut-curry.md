@@ -11,7 +11,7 @@ tags:
 
 Author: Averie Sunshine
 
-Source: https://www.averiecooks.com/thai-chicken-coconut-curry/
+Source: <https://www.averiecooks.com/thai-chicken-coconut-curry/>
 
 ## Ingredients
 

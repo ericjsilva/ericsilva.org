@@ -27,7 +27,7 @@ tags:
 ## Dutch Oven Directions
 
 1. Pre-heat dutch oven over coals or camp stove.
-2. In your dutch oven, brown chicken with salt and pepper to taste. 
+2. In your dutch oven, brown chicken with salt and pepper to taste.
 3. Add onion, bell pepper, diced tomatoes, mushrooms, and spaghetti sauce.
 4. Stir well and and make sure that it is heated through.
 5. Cook for 45-60 minutes at 350°.
@@ -35,7 +35,7 @@ tags:
 
 ## Home Kitchen Directions
 
-1. In a large skillet or deep pan, brown chicken with salt and pepper to taste. 
+1. In a large skillet or deep pan, brown chicken with salt and pepper to taste.
 2. Add onion and bell pepper, and heat for 5-10 minutes.
 3. Add diced tomatoes, mushrooms, and spaghetti sauce.
 4. Stir well and and make sure that it is heated through.
@@ -43,5 +43,3 @@ tags:
 6. While chicken mixture is cooking, cook pasta separately and combine at the end.
 
 Serves 6.
-
-

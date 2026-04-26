@@ -21,6 +21,4 @@ I will finish tonight with a similar thought from Mother Teresa:
 
 Thank you for being here tonight and thank you for volunteering your time in this thing called Scouting. If you can’t contribute 100 hours per week, then contribute just one.
 
-
-
-*Adapted from: https://scoutermom.com/1545/scoutmaster-minute-only-one/*
+*Adapted from: <https://scoutermom.com/1545/scoutmaster-minute-only-one/>*

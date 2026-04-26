@@ -16,4 +16,4 @@ No matter how painful the blows, or how distressing the situation seemed, the ol
 
 That’s life! If we face our problems and respond to them positively, and refuse to give in to panic, bitterness, or self-pity. The problems that come along to bury us usually have within them the very potential to benefit us ... and benefit Scouting, too!
 
-*Reference: https://www.scouterlife.com/scoutmaster-minutes/2019/9/12/2019-36-parable-of-the-mule1*
+*Reference: <https://www.scouterlife.com/scoutmaster-minutes/2019/9/12/2019-36-parable-of-the-mule1>*

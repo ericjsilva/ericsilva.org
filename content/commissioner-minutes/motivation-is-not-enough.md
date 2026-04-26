@@ -12,9 +12,9 @@ Our membership numbers are low, our public perception is tarnished, we’re stil
 
 We are all here in attendance tonight because we believe in this program, the values it represents, and the lives of the youth that we encounter along the way. We know the consequences if we stop. We know we must keep working towards our common goal. Our strength lies in our unified mission.
 
-It’s not an easy road. It’s going to take a lot of effort, some difficult conversations, perhaps challenging decisions, but we need to be motivated to work together for the success of the program. 
+It’s not an easy road. It’s going to take a lot of effort, some difficult conversations, perhaps challenging decisions, but we need to be motivated to work together for the success of the program.
 
-I’ll leave you tonight with the following passage from the book 'Everyday Enlightenment' by Dan Millman. 
+I’ll leave you tonight with the following passage from the book 'Everyday Enlightenment' by Dan Millman.
 
 In this world, persisting toward a goal requires either a 'want' or a 'will.'
 

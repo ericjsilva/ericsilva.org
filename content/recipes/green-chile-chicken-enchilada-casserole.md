@@ -11,7 +11,7 @@ tags:
 
 Author: Liz Call
 
-Source: https://realhousemoms.com/green-chili-chicken-enchilada-casserole/
+Source: <https://realhousemoms.com/green-chili-chicken-enchilada-casserole/>
 
 ## Ingredients
 

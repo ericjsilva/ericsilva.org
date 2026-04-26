@@ -1,50 +1,52 @@
 .pswp-gallery.lightbox-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 0.75rem;
-  margin-top: 1rem;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+	gap: 0.75rem;
+	margin-top: 1rem;
 }
 
 .lightbox-gallery__link {
-  display: block;
-  position: relative;
-  overflow: hidden;
-  border-radius: 8px;
-  background: var(--color-surface-100, #0f172a);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+	display: block;
+	position: relative;
+	overflow: hidden;
+	border-radius: 8px;
+	background: var(--color-surface-100, #0f172a);
+	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
 }
 
 .lightbox-gallery__link::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);
-  pointer-events: none;
+	content: "";
+	position: absolute;
+	inset: 0;
+	box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05);
+	pointer-events: none;
 }
 
 .lightbox-gallery__thumb {
-  display: block;
-  width: 100%;
-  height: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
-  transition: transform 150ms ease, filter 150ms ease;
+	display: block;
+	width: 100%;
+	height: 100%;
+	aspect-ratio: 4 / 3;
+	object-fit: cover;
+	transition:
+		transform 150ms ease,
+		filter 150ms ease;
 }
 
 .lightbox-gallery__link:hover .lightbox-gallery__thumb,
 .lightbox-gallery__link:focus-visible .lightbox-gallery__thumb {
-  transform: scale(1.03);
-  filter: brightness(1.05);
+	transform: scale(1.03);
+	filter: brightness(1.05);
 }
 
 .lightbox-gallery__empty {
-  text-align: center;
-  color: var(--color-muted-500, #64748b);
-  font-style: italic;
+	text-align: center;
+	color: var(--color-muted-500, #64748b);
+	font-style: italic;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .lightbox-gallery__thumb {
-    transition: none;
-  }
+	.lightbox-gallery__thumb {
+		transition: none;
+	}
 }

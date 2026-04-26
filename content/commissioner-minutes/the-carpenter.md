@@ -32,4 +32,4 @@ nail, place a board, or erect a wall. Build wisely. This is your life. Even if y
 day more, that day deserves to be lived graciously and with dignity. Your life today is the result
 of your choices in the past. Your life tomorrow will be the result of the choices you make today.
 
-*Reference: http://t1000.org/scoutmaster-minute-february-2021*
+*Reference: <http://t1000.org/scoutmaster-minute-february-2021>*
