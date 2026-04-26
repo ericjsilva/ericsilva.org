@@ -13,7 +13,7 @@ tags:
 For the stew:
 
 - 2 lbs. cooked chicken, chopped or shredded
-- 6-7 cups water 
+- 6-7 cups water
 - 4 cups chicken broth
 - 1 medium yellow or sweet onion, diced
 - 3 medium carrots, peeled and diced
@@ -35,7 +35,6 @@ For the homemade noodle dough (enough for the pot pie):
 - 2 large eggs, beaten
 - 1/2 cup water
 
-
 ## Directions
 
 ### Make the noodle dough
@@ -51,7 +50,7 @@ For the homemade noodle dough (enough for the pot pie):
 ### Make the chicken pot pie
 
 1. If you don't already have cooked chicken available, you will need to cook chicken. You can use a whole chicken, breast, thighs, or a combination. You can also get a rotisserie chicken from the grocery and use that for quick and easy.
-2. Prepare the vegetables: In a large pot, melt 2 tbsp butter over medium heat. Add the onion, carrots, celery, and garlic and sauté until soft, about 3–4 minutes. 
+2. Prepare the vegetables: In a large pot, melt 2 tbsp butter over medium heat. Add the onion, carrots, celery, and garlic and sauté until soft, about 3–4 minutes.
 3. Add the potatoes and chicken.
 4. Add salt, seasoning salt, black pepper, thyme, and parsley.
 5. Add chicken broth and 6 cups water to the pot. Stir and bring to a boil.

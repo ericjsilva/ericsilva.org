@@ -10,7 +10,7 @@ tags:
 
 Author: Amanda Finks
 
-Source: https://www.thewholesomedish.com/the-best-classic-meatloaf/
+Source: <https://www.thewholesomedish.com/the-best-classic-meatloaf/>
 
 ## Ingredients
 

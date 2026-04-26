@@ -25,4 +25,4 @@ tags:
 3. Pour the wet ingredients into the dry ingredients and mix until combined.
 4. Pour contents into greased/oiled 10" cast iron skillet or 12" dutch oven (if camping).
 5. Bake cornbread for 30 minutes at 375°. Cook at 350° for an additional 10 minutes or until done. Check with toothpick or knife in center.
-6. Serve with butter or maple syrup. 
+6. Serve with butter or maple syrup.

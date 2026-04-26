@@ -37,4 +37,4 @@ He just has to look at the wall, placed an order for himself, enjoy his coffee.
 
 A truly beautiful thought. Probably the most beautiful wall you’ll ever see anywhere!
 
-*Reference: https://quitpit.com/coffee-on-the-wall/*
+*Reference: <https://quitpit.com/coffee-on-the-wall/>*

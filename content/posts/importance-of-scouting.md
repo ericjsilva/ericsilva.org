@@ -7,7 +7,7 @@ tags:
 
 I was at my family doctor just last week to get my annual physical done so I could attend summer camp with the Troop as well as participate in some high adventure activities we have planned this summer.
 
-When he walked into the exam room, he saw the BSA Medical Form next to me, and said "You’re still doing this, huh?" It was a fair question given that both of my children are now adults, and no longer active in Scouting. I responded that I was still quite active, helping out and active with the Troop, as well as the Pack, and a few other things. 
+When he walked into the exam room, he saw the BSA Medical Form next to me, and said "You’re still doing this, huh?" It was a fair question given that both of my children are now adults, and no longer active in Scouting. I responded that I was still quite active, helping out and active with the Troop, as well as the Pack, and a few other things.
 
 This is a question I often get from people outside of Scouting or from past volunteers or parents who are no longer active; "Why am I still active?". I am sure several of my fellow leaders in this room also have been asked this question.
 

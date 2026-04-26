@@ -12,9 +12,8 @@ When the boy got the rock to the edge of the sandbox, however, he found that he 
 
 All this time the boy’s father watched from his living room window as the drama unfolded. The moment the tears fell, a large shadow fell across the boy and the sandbox. It was the boy’s father. Gently but firmly, he said, "Son, why didn’t you use all the strength that you had available?" Defeated, the boy sobbed back, "But I did Daddy, I did! I used all the strength that I had!" "No, son," corrected the father kindly, "you didn’t use all the strength you had. You didn’t ask me."
 
-With that the father reached down and lifted the rock from the sandbox. 
+With that the father reached down and lifted the rock from the sandbox.
 
 Within life and in Scouting, we often find ourselves trying to lift our own rocks out of the sandbox. Each day we encounter challenges and obstacles preventing us from progressing or even succeeding. For each of you, can you identify where "All your Strength" is? Is it your family, your friends, your Creator? In Scouting, is it your fellow leaders, your Scout parents? What about the Commissioner Staff? Each Scouting year brings new faces, new families, and new challenges. Be sure to use all your strength when facing those challenges and let’s overcome them together.
 
-
-*Source: https://scoutorama.com/the-rock-in-the-sandbox-scoutmasters-minute*
+*Source: <https://scoutorama.com/the-rock-in-the-sandbox-scoutmasters-minute>*

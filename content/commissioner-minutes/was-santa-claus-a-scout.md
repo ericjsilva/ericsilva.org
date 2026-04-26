@@ -28,4 +28,3 @@ Let’s take a look at how The Old Man stacks up against the Scout Law:
 This time of year, no matter what holiday you celebrate, remember that doing our best every day and living the Scout Oath and Law is what really makes each of us a Scout as well!
 
 Thank you for all you do for Scouting. I wish you all a happy holiday season, good health, and peace.
-

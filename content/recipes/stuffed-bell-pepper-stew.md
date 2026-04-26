@@ -12,7 +12,7 @@ tags:
 
 Author: Chelsey Janes
 
-Source: https://50campfires.com/stuffed-bell-pepper-soup-dutch-oven/
+Source: <https://50campfires.com/stuffed-bell-pepper-soup-dutch-oven/>
 
 ## Ingredients
 
@@ -40,5 +40,3 @@ Source: https://50campfires.com/stuffed-bell-pepper-soup-dutch-oven/
    - I always test it a few times to make sure the rice is how I like it.
 
 Serves about 8.
-
-

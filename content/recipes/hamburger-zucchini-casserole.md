@@ -30,8 +30,8 @@ When the garden starts overflowing with zucchini, this casserole is a go-to in o
 1. Preheat your oven to 350°F (175°C).
 2. In a large skillet over medium-high heat, brown the ground beef along with the diced onion and celery. Season with salt, pepper, and garlic poweder. Cook until the meat is no longer pink and the vegetables have softened. Drain any excess fat.
 3. While the meat is browning cook 1-1/2 cups of elbow macaroni until al dente.
-4. In a 9x13-inch baking dish, place the cooked macaroni, layer the cooked meat and vegetable mixture, add the fire-roasted tomatoes, and sliced zucchini. 
-6. Top generously with your favorite shredded cheese.
-7. Bake for 30 minutes, or until the cheese is melted and bubbly and the zucchini is fork-tender.
+4. In a 9x13-inch baking dish, place the cooked macaroni, layer the cooked meat and vegetable mixture, add the fire-roasted tomatoes, and sliced zucchini.
+5. Top generously with your favorite shredded cheese.
+6. Bake for 30 minutes, or until the cheese is melted and bubbly and the zucchini is fork-tender.
 
 Serves 4-6.

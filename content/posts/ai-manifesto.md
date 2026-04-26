@@ -28,7 +28,7 @@ Generative AI provides genuine value when it acts as a lever for human intent. I
 
 We embrace AI for rapid scaffolding and throwing together proof-of-concept code to test viability. However, we acknowledge that AI-generated prototypes are sandboxes. They exist to prove a concept, not to run in production.
 
-* **Visual and Structural Prototyping:** Generating images for visualizing concepts, generating CSS color schemes, or scaffolding "throwaway" code to test a proof-of-concept are valid uses of the technology. 
+* **Visual and Structural Prototyping:** Generating images for visualizing concepts, generating CSS color schemes, or scaffolding "throwaway" code to test a proof-of-concept are valid uses of the technology.
 * **The Golden Rule of Prototyping:** AI-generated prototypes exist solely to prove viability. They are sandboxes, not foundations. A prototype is meant to be studied, understood, and then rewritten.
 
 ## The Mental Model is Non-Negotiable
@@ -45,7 +45,7 @@ We fundamentally oppose the use of autonomous AI agents operating without a huma
 
 ## The Illusion of Competency Plants Hidden Land Mines
 
-We recognize the extreme danger of GenAI in the hands of inexperienced developers. Code that looks structurally sound on the surface but lacks foundational integrity is a hidden land mine just waiting to explode. Surface-level solutions obscure edge cases, security flaws, and performance bottlenecks. 
+We recognize the extreme danger of GenAI in the hands of inexperienced developers. Code that looks structurally sound on the surface but lacks foundational integrity is a hidden land mine just waiting to explode. Surface-level solutions obscure edge cases, security flaws, and performance bottlenecks.
 
 * **The Illusion of Competency:** We reject the practice of using Generative AI to mask a lack of foundational knowledge. In the hands of inexperienced developers, GenAI produces code that looks structurally sound on the surface but lacks foundational integrity. These are hidden land mines.
 * **"Workslop" and Diminishing Returns:** For those same inexperienced hands, using GenAI often yields low-quality results that require significant time to understand, refactor, and improve. Accepting this "workslop" is a waste of time and resources.
@@ -56,7 +56,7 @@ We must also consider the long-term impact of AI on the very fabric of our profe
 
 * **Destruction of Critical Thinking:** The over-reliance on AI tools for simple tasks erodes our ability to think critically and solve problems independently. In several studies, researchers have found that students who use GenAI to complete writing and research tasks experience reduced cognitive load, but demonstrated poorer reasoning and argumentation skills compared to students using traditional methods.
 * **Erosion of Creativity:** Creativity has always been an important part of software development. It is the ability to think outside the box and come up with new ideas. However, with the rise of GenAI, we are seeing a decline in creativity. Developer are more quick to accept the output of AI tools rather than take time to think creatively and come up with their own ideas on how to solve a particular task. The result is code that the developer doesn't own. It's not theirs, and there is no emotional connection to the result.
-* **Erosion of Basic Software Engineering Skills:** The over-reliance on GenAI continues to erode and may lead to the extinction of basic software engineering skills. Skills like creative thinking, debugging, problem solving, contextual understanding, architecture and design, security, and ethics are all at risk of being lost. With the next generation of developers not having to learn these skills, exercise and hone these skills, and continue to practice proper software engineering, we may be heading toward a future where we have a generation of developers who are unable to build or maintain software without the help of AI. 
+* **Erosion of Basic Software Engineering Skills:** The over-reliance on GenAI continues to erode and may lead to the extinction of basic software engineering skills. Skills like creative thinking, debugging, problem solving, contextual understanding, architecture and design, security, and ethics are all at risk of being lost. With the next generation of developers not having to learn these skills, exercise and hone these skills, and continue to practice proper software engineering, we may be heading toward a future where we have a generation of developers who are unable to build or maintain software without the help of AI.
 
 ## Vigilance Fatigue
 
@@ -77,9 +77,9 @@ To operate ethically in an AI-augmented landscape, developers and creators must 
 
 ## The Burden of the Builder
 
-Surface-level AI solutions hide edge cases, security flaws, and performance bottlenecks. Eventually, those land mines will explode in production. When they do, the AI will not be there to debug the system, and without a mental model, analysis and recovery will be excruciatingly difficult. 
+Surface-level AI solutions hide edge cases, security flaws, and performance bottlenecks. Eventually, those land mines will explode in production. When they do, the AI will not be there to debug the system, and without a mental model, analysis and recovery will be excruciatingly difficult.
 
-The human who pressed "deploy" is solely responsible. 
+The human who pressed "deploy" is solely responsible.
 
 The systems we build still need human oversight, intuition, and accountability to survive in the real world. We must pledge to: treat AI as an eager but naive tool; maintain strict ownership over our mental models; and commit entirely to the craftsmanship of our trade.
 

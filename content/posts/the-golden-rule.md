@@ -34,4 +34,4 @@ I came across [this post by Lolly Daskal](https://www.lollydaskal.com/leadership
 
 *Original author: [Lolly Daskal](https://www.lollydaskal.com), President and CEO, Lead from Within [@LollyDaskal](https://twitter.com/LollyDaskal)*
 
-*Source: https://www.lollydaskal.com/leadership/9-valuable-principles-that-will-make-you-treat-people-better/*
+*Source: <https://www.lollydaskal.com/leadership/9-valuable-principles-that-will-make-you-treat-people-better/>*

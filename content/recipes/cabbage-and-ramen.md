@@ -23,10 +23,10 @@ Author: Barbara Silva
 
 1. Brown the ground meat and onion, seasoned with salt, pepper and garlic powder (or fresh minced garlic)
 2. Mix one of the seasoning packets to the meat mixture
-3. Break up the ramen noodles and add them to the meat mixture 
+3. Break up the ramen noodles and add them to the meat mixture
 4. Save the two remaining seasoning packets and mix with one cup of water. Add that to the skillet, mix in well and cover.
 5. Cook on medium heat until the noodles soften, stirring frequently to ensure it does not stick. Add more water as necessary if that happens.  
-6. Once the noodles have started to soften, add the cabbage and add soy sauce or Worcestershire sauce to your taste. Mix in well and stir until cabbage starts to wilt. 
+6. Once the noodles have started to soften, add the cabbage and add soy sauce or Worcestershire sauce to your taste. Mix in well and stir until cabbage starts to wilt.
 7. Check for seasoning and you are ready to eat.  
 
 _Source:_ Barbara Silva
