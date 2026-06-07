@@ -14,10 +14,10 @@ convert-images DIR:
 format:
     pnpm exec biome format --write .
 
-# Lint files with Biome and Markdownlint
+# Lint files with Biome and Rumdl
 lint:
     pnpm exec biome lint .
-    pnpm exec markdownlint "**/*.md"
+    pnpm exec rumdl check .
 
 # Format and lint all files
 check: format lint
