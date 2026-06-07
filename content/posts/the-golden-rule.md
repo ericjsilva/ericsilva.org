@@ -8,7 +8,7 @@ tags:
 
 It is my opinion and belief that a person will be remembered more for the way they treat other people and how they make them feel compared to their accomplishments, successes, and what they did to make a living.
 
-The Golden Rule has been worded in many forms with the simple message telling us to "treat others the way we wish to be treated".  I have tried in my adult life to live by this rule. I've also taught my children that we cannot control how other's behave or what they choose to say, but we are always in full control of what we choose to say, how we choose to act, how we choose to react, and how we choose to treat others.
+The Golden Rule has been worded in many forms with the simple message telling us to "treat others the way we wish to be treated". I have tried in my adult life to live by this rule. I've also taught my children that we cannot control how other's behave or what they choose to say, but we are always in full control of what we choose to say, how we choose to act, how we choose to react, and how we choose to treat others.
 
 In our personal and professional relationships we meet, engage, work alongside, and potentially depend on many different people; each having their own background, story, level of experience, and ambitions.
 

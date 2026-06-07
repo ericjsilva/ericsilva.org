@@ -9,7 +9,7 @@ I am a software developer. I started with Fortran and Pascal in 1994-1995, and c
 
 I then did some work with C# and ASP.NET - these were the dark times. We no longer discuss this period in polite conversation.
 
-For the last 15 years, I have continued developing in Java, but also began using PHP and Python.  I've also shifted away from application development, more heavily focused on cloud infrastructure and security primarily with Amazon Web Services. Most days I am writing Terraform HCL and Python functions. If you are really interested in my professional career, my [LinkedIn profile](https://linkedin.com/in/ericjsilva) is up-to-date.
+For the last 15 years, I have continued developing in Java, but also began using PHP and Python. I've also shifted away from application development, more heavily focused on cloud infrastructure and security primarily with Amazon Web Services. Most days I am writing Terraform HCL and Python functions. If you are really interested in my professional career, my [LinkedIn profile](https://linkedin.com/in/ericjsilva) is up-to-date.
 
 I live in [Birdsboro](https://en.wikipedia.org/wiki/Birdsboro,_Pennsylvania), a small town near Reading, PA with my two children, our dog, cat, guinea pigs, fish, and foster pets waiting to go to their furever home. I grew up in [Alamogordo, NM](https://www.alamogordo.com) before coming to the Philadelphia area in 1997. I enjoy living in the northeast, but I do miss the sunsets, mild winters, and the mountains of the southwest.
 
