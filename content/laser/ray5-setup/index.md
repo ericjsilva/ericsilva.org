@@ -31,9 +31,9 @@ Here is the hardware I'm using in my laser workstation. If you are setting up a 
 
 ## Design Files
 
-* **Alignment Jig File:** [longer-ray5-alignment-jig-10w.lbrn2](longer-ray5-alignment-jig-10w.lbrn2) – This LightBurn project file contains two pre-configured layouts to help with material alignment:
-  * **Honeycomb Jig:** A grid-aligned corner stop template designed to help position the honeycomb grid relative to the laser's origin.
-  * **No Honeycomb Jig:** A layout designed to score alignment borders directly onto a wasteboard or target piece when not using the honeycomb table.
+* **Alignment Jig File:** [longer-ray5-alignment-jig-10w.lbrn2](longer-ray5-alignment-jig-10w.lbrn2) – This LightBurn project file contains templates for building physical alignment jigs. In this setup, the laser frame is physically attached to the jig base, creating a fixed mechanical relationship between the laser frame and the workspace:
+  * **Honeycomb Jig:** A template used to align and position the honeycomb table relative to the laser frame.
+  * **No Honeycomb Jig:** A template used to align workpieces directly relative to the laser frame when not using the honeycomb table.
 
 ---
 
@@ -69,25 +69,25 @@ When routing the air hose from the pump to the laser head:
 
 ## 3. Alignment Jigs (The Secret to Repeatability)
 
-Aligning a workpiece manually with the laser head's red framing light is slow and prone to errors. To solve this, I use two types of alignment jigs depending on whether the honeycomb table is on the bed or not.
+Aligning a workpiece manually with the laser head's red framing light is slow and prone to errors. To solve this, I use physical alignment jigs. In this setup, the laser frame is attached directly to the jig base, ensuring a fixed relationship between the laser frame and the alignment boundaries.
 
-### A. Alignment on the Honeycomb Bed
+Depending on whether the honeycomb table is used, the jig is designed to align either the honeycomb table or the workpiece relative to the laser frame.
 
-The honeycomb grid has built-in rulers along the edges, but aligning a piece precisely still takes work.
+### A. Aligning the Honeycomb Bed (Honeycomb Jig)
 
-* **The Honeycomb Jig:** I use the **Honeycomb Jig template** included in the LightBurn project file. This template helps score or cut a perfect corner-aligned jig that has pins projecting from the bottom to slot directly into the honeycomb cells.
-* **How it works:** Once the L-bracket is pressed into the honeycomb grid, it acts as a perfect physical corner stop. You slide your material (like a wood plaque or slate coaster) into the corner of the bracket. Because the jig fits securely into the grid, you can run batch projects knowing every piece is in the exact same coordinates.
-* **Software Setup:** In LightBurn, you can save a specific coordinate offset (e.g., $X=10, Y=10$) matching the corner of your jig so your designs line up automatically.
+Even a slight rotation of the honeycomb table relative to the laser frame will cause cuts and grids to run crooked.
 
-### B. Alignment Without the Honeycomb Bed
+* **The Honeycomb Jig:** This template in the LightBurn file is used to create an alignment jig that fixes the physical position of the honeycomb table relative to the laser frame.
+* **How it works:** With the laser frame physically attached to the jig, the jig guides are positioned to square the honeycomb table. When the honeycomb table is placed against these stops, it is locked in perfect alignment (both parallel and square) with the laser's movement axes.
+* **Software Setup:** Since the table is perfectly aligned with the laser travel, any grid-based alignment in LightBurn will match physical reality.
 
-Sometimes you need to engrave thick objects that require removing the honeycomb table to gain vertical clearance under the laser module. In these cases, you can use a wasteboard-based alignment jig:
+### B. Aligning Workpieces Directly (No Honeycomb Jig)
 
-1. **Secure a Wasteboard:** Secure a piece of scrap cardboard or thin MDF directly to your workbench or laser base plate using double-sided tape or clamps.
-2. **Engrave the Outline:** Open the **No Honeycomb Jig template** from the project file to create a scored boundary matching your workpiece.
-3. **Run a Test Cut:** Set the laser to a very low power (e.g., 2% power at high speed) to score/burn the outline of the shape directly onto the scrap cardboard.
-4. **Place the Workpiece:** Without moving the cardboard wasteboard, place your actual workpiece inside the scored outline.
-5. **Run the Job:** Run your engraving design. Because the wasteboard hasn't moved, the engraving will align perfectly to the workpiece inside the template.
+When engraving thick items, you need to remove the honeycomb table for vertical clearance. In these cases, you still need a way to align workpieces consistently relative to the laser frame.
+
+* **The No Honeycomb Jig:** This template is used to create an alignment jig when you are engraving directly on the base plate or wasteboard.
+* **How it works:** Since the laser frame is attached to the jig base, the jig provides physical registration stops or slots directly relative to the frame. Sliding a workpiece into this corner slot automatically aligns it square and true relative to the laser frame and its origin.
+* **Software Setup:** In LightBurn, place your design relative to the fixed coordinate of the jig's corner stop. Every time you slide a new workpiece into the slot, it will engrave in the exact same spot.
 
 ---
 
