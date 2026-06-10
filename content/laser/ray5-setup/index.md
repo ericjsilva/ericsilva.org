@@ -44,10 +44,12 @@ The honeycomb bed is crucial for cutting projects. When you cut wood or acrylic 
 ### Installation Tips
 
 1. **Workbench Protection:** Always place the included thin aluminum sheet directly on your workbench *first*, and then place the honeycomb bed on top of it. This aluminum sheet acts as a barrier, preventing the laser from burning your workbench when it cuts through workpieces.
-2. **Squaring the Bed:** Align the edges of the honeycomb table so they are perfectly square to the frame of your Longer Ray5. If the bed is crooked, alignment lines on the honeycomb grid won't match the movements of your laser axes.
+2. **Squaring the Bed:** Align the edges of the honeycomb table so they are perfectly square to the frame of your Longer Ray5. If the bed is crooked, alignment lines on the honeycomb grid won't match the movements of your laser axes. (Remember to use the Honeycomb Jig template from the [alignment jig file](#design-files) to make this process easy and highly precise.)
 3. **Hold-Down Pins:** The honeycomb bed comes with plastic automotive trim clips that can be used as hold-downs to keep thin, warped sheets of wood flat against the grid.
-   * > [!WARNING]
-     > Make sure to remove all plastic clips from the table's active cutting and engraving path before using the table for the first time (and before every job). If they are left in the laser's path, the laser beam will melt the plastic, creating toxic fumes and ruining the clips.
+
+{{< alert "triangle-exclamation" >}}
+**Warning:** Make sure to remove all plastic clips from the table's active cutting and engraving path before using the table for the first time (and before every job). If they are left in the laser's path, the laser beam will melt the plastic, creating toxic fumes and ruining the clips.
+{{< /alert >}}
 
 ---
 
