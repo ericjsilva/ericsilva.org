@@ -16,9 +16,9 @@
 		"*.md": "rumdl check --fix"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.16",
+		"@biomejs/biome": "^2.5.13",
 		"husky": "^9.1.7",
-		"lint-staged": "^17.0.5",
-		"rumdl": "^0.2.9"
+		"lint-staged": "^17.5.1",
+		"rumdl": "^0.2.73"
 	}
 }
