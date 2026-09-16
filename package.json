@@ -10,7 +10,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"packageManager": "pnpm@10.33.2",
+	"packageManager": "pnpm@12.4.2",
 	"lint-staged": {
 		"*": "biome check --write --no-errors-on-unmatched --files-ignore-unknown=true",
 		"*.md": "rumdl check --fix"
