@@ -10,15 +10,15 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"packageManager": "pnpm@12.4.2",
+	"packageManager": "pnpm@12.15.0",
 	"lint-staged": {
 		"*": "biome check --write --no-errors-on-unmatched --files-ignore-unknown=true",
 		"*.md": "rumdl check --fix"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.5.14",
+		"@biomejs/biome": "^2.6.2",
 		"husky": "^9.1.7",
 		"lint-staged": "^17.6.0",
-		"rumdl": "^0.2.77"
+		"rumdl": "^0.2.79"
 	}
 }
